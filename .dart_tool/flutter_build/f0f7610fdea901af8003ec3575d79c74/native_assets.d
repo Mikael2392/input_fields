@@ -1,0 +1,1 @@
+ /Users/mikaelsmiri/Documents/Projekt_struktur/input_fields/.dart_tool/flutter_build/f0f7610fdea901af8003ec3575d79c74/native_assets.yaml: 
